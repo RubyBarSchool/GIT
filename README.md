@@ -7,7 +7,6 @@ Command List
 
 ```git
 #Basic command os
-
 pwd : show path directory
 
 mkdir <name folder> : create new folder
@@ -15,7 +14,6 @@ mkdir <name folder> : create new folder
 cd <name/path> : go to path folder
 
 #Basic command git
-
 git version: check git version
 
 git config --global <>: config environment global
