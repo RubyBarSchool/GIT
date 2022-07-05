@@ -1,0 +1,120 @@
+[33mcommit 78d2ffe5ec129afd26d570a7e242b86f1579e519[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 94afb16 b7ccef8
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 14:40:58 2022 +0700
+
+    Merge branch 'main' of https://github.com/RubyBarSchool/GIT
+
+[33mcommit b7ccef8706b5b9d43a2162336e3457960617b1ba[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 14:27:01 2022 +0700
+
+    Update README.md
+
+[33mcommit 94afb16c6b55801bb816bcef695ad46b5b4f4fdb[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 14:10:04 2022 +0700
+
+    delete file new.txt
+
+[33mcommit a320c99e9666a81d3db3229a5e419e3cfc923e9d[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 14:08:26 2022 +0700
+
+    add new file
+
+[33mcommit e6da3e3794e926b168939ce51739a75c8231d08c[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 14:07:18 2022 +0700
+
+    Update README.md
+
+[33mcommit e3b5ffd52a341f8a5515ce6337b4b25c81dd7aa9[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 13:32:12 2022 +0700
+
+    Update README.md
+
+[33mcommit c1130cfd1773a389916bfe50d7d13101d1ad78c7[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 13:19:24 2022 +0700
+
+    rename file start
+
+[33mcommit 1740e10837113fa224695fe74a68c6dc3d0ff9da[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:51:45 2022 +0700
+
+    update file
+
+[33mcommit 9a5eefb90365698021cc85cceaac8e43fcc68db9[m
+Merge: d440fed dc95723
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:28:57 2022 +0700
+
+    Merge pull request #2 from RubyBarSchool/basic-command-git
+    
+    Update README.md
+
+[33mcommit dc9572359c159c151c2aefddf30166ea4332f326[m[33m ([m[1;31morigin/basic-command-git[m[33m)[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:28:27 2022 +0700
+
+    Update README.md
+
+[33mcommit d440feda980f7565c061a9925dbfaf5282561032[m
+Merge: 41c9761 29b269d
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:27:41 2022 +0700
+
+    Merge pull request #1 from RubyBarSchool/basic-command-os
+    
+    Update README.md
+
+[33mcommit 29b269d73d3212df39d061628089ac43f650a443[m[33m ([m[1;31morigin/basic-command-os[m[33m)[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:26:55 2022 +0700
+
+    Update README.md
+
+[33mcommit 41c97612e43c64e187304c60da588eb2384860ed[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:25:57 2022 +0700
+
+    Update README.md
+
+[33mcommit 0d16b329cb375d84b7acf9991d101a97f33d720f[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Tue Jul 5 10:25:35 2022 +0700
+
+    Update README.md
+
+[33mcommit 890cb882f8ceee70e234bd4dcc8cabb714b6dd02[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Mon Jul 4 18:01:11 2022 +0700
+
+    Add file editorInstall
+
+[33mcommit 5a83fd6f366922e8655f2743e7c413cc5cb5d242[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Mon Jul 4 17:37:51 2022 +0700
+
+    Update README.md
+
+[33mcommit 01865797c09d38c8494953c5dd5371ddd1f08b93[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Mon Jul 4 17:33:12 2022 +0700
+
+    Add folder file
+
+[33mcommit 652cbeb6be4a25c0eae47232328df0bf968f12c7[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Mon Jul 4 17:27:08 2022 +0700
+
+    Add file readme and image git life cycle and start.txt
+
+[33mcommit ddf13579f8351d304aac22cfb363cbf576895d2f[m
+Author: Trần Vũ Trường <truongtv1399it@gmail.com>
+Date:   Mon Jul 4 16:12:38 2022 +0700
+
+    Initial commit
