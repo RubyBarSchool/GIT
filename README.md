@@ -57,4 +57,13 @@ git diff : Show changes between commits, commit and working tree, etc
 
 git diff HEAD : show changes between working directory and loca repository
 
+git diff --staged HEAD: show changes between stagging area and local repository
+
+git diff -- <file> : show changes in file
+
+git diff <id commit 1> <id commit 2>: show changes between 2 commits
+
+git diff HEAD ^HEAD: show changes between git repository at HEAD and git repository at 1 commit before HEAD
+
+git diff <branch main local> origin/<branch main remote>
 ```
