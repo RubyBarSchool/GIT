@@ -37,4 +37,12 @@ git push : up files in Local Repository(.git) to remote repository area ( GitHub
 git mv <source> <destination> :  Move or rename a file, a directory, or a symlink
 
 git rm <file> : Remove files from the working tree and from the index
+
+git log : show list commit log
+
+git log -- <file> : show log of file
+
+git log --since="3 days ago" : show log in 3 last day
+
+git log --all --graph --decorate --oneline: show log commit and show graph and show imple commit
 ```
