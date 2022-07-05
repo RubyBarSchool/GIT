@@ -32,5 +32,5 @@ git push : up files in Local Repository(.git) to remote repository area ( GitHub
 
 git mv <source> <destination> :  Move or rename a file, a directory, or a symlink
 
-
+git rm <file> : Remove files from the working tree and from the index
 ```
