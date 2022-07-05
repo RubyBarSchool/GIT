@@ -45,4 +45,11 @@ git log -- <file> : show log of file
 git log --since="3 days ago" : show log in 3 last day
 
 git log --all --graph --decorate --oneline: show log commit and show graph and show imple commit
+
+# Git alias
+# Config 
+git config --global alias.<name alias> "<cmd>"
+example: git config --global alias.showloggraph "log --all --graph --decorate --oneline"
+
+git showloggraph = git log --all --graph --decorate --oneline
 ```
