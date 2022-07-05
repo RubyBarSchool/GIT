@@ -13,6 +13,10 @@ mkdir <name folder> : create new folder
 
 cd <name/path> : go to path folder
 
+rm <file> : remove file
+
+rm -r <dir> delete directory dir last directory
+
 #Basic command git
 git version: check git version
 
