@@ -127,7 +127,9 @@ git rebase --skip: prefer to skip this patch
 
 ## Command git stashing
 ```git 
-git stash : move all changes to other memory
+git stash : move all changes in file (old) to other memory
+
+git stash -u : move all changes in file (old and new) to other memory
 
 git stash apply: merge all changes from other memory in here
 
