@@ -77,6 +77,8 @@ git diff <branch main local> origin/<branch main remote>: show changes between g
 
 ## Command git branch
 ```git
+git branch: show all branch local
+
 git branch -a: show all branch local and remote
 
 git branch <name branch>: add new branch to local
@@ -87,4 +89,5 @@ git branch -m <name old branch> <name new branch> : change name branch
 
 git branch -d <name branch>: delete branch
 
+git branch -b <name new branch>: create new branch and checkout to new branch
 ``` 
