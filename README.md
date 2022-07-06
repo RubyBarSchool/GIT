@@ -34,6 +34,8 @@ git add <file/files/.>: add or change file in Local Area to Stagging Area
 
 git commit -m "<note>": add  or changr file in Stagging Area to Local Repository Area (.git)
 
+git commit -am "<note>": add and commit
+
 git push : up files in Local Repository(.git) to remote repository area ( GitHub ) 
 
 git mv <source> <destination> :  Move or rename a file, a directory, or a symlink
@@ -102,6 +104,20 @@ git merge <branch A>: merge code in branch A to branch here
 if branch here dont have commit => fast forward
 
 git merge <branch A> --no-ff: disable fast forward merge
+``` 
+
+
+## Command git rebasing
+```git 
+git rebase <branch A>: Here to branch A
+
+git rebase --about: check out the original branch and stop rebasing 
+
+git rebase --continue: resolved this problem go next step
+
+git rebase --skip: prefer to skip this patch
+
+
 ``` 
 
 
