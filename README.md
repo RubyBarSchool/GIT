@@ -101,7 +101,7 @@ git merge <branch A>: merge code in branch A to branch here
 
 if branch here dont have commit => fast forward
 
-git merge <branch A> --no-f: disable fast forward merge
+git merge <branch A> --no-ff: disable fast forward merge
 ``` 
 
 
