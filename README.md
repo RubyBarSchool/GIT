@@ -41,7 +41,13 @@ git push : up files in Local Repository(.git) to remote repository area ( GitHub
 git mv <source> <destination> :  Move or rename a file, a directory, or a symlink
 
 git rm <file> : Remove files from the working tree and from the index
+
+git restore <file> : to discard changes in working directory
+
+git restore --staged <file>: to unstage
+
 ```
+
 ## Command git log
 ```git
 git log : show list commit log
@@ -117,7 +123,16 @@ git rebase --continue: resolved this problem go next step
 
 git rebase --skip: prefer to skip this patch
 
-
 ``` 
 
+## Command git stashing
+```git 
+git stash : move all changes to other memory
+
+git stash apply: merge all changes from other memory in here
+
+git stash list: get list stash in other memory
+
+git stash drop: drop new stash
+``` 
 
