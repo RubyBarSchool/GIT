@@ -152,3 +152,29 @@ git stash clear: remove all stashes
 git stash branch <name new branch>: move all change of stash old branch to new branch
 ``` 
 
+
+## Command git tagging
+```git 
+git tag <tag name> : create new tag
+
+git tag --list: get all tag
+
+git show <tagName>: show document pin to tag
+
+git tag --delete <tag name>: delete tag
+
+git tag -a <tag name> : annotated tags
+
+git diff <tag 1> <tag 2>: compare between tag 1 and tag 2
+
+git tag <tag name> <id commit>: add tag to commit
+
+git tag <tag name exit> -f <id commit> :update tag 
+
+git push --tags: upload all tag to remote
+
+git push <tag name>: upload tag to remote
+
+git push :<tag name> : delete tag in remote
+``` 
+
