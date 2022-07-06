@@ -148,5 +148,7 @@ git stash save "<message>": config name to stash this is happy if have multiple 
 git stash show stash@{<index>}: show file change in stash
 
 git stash clear: remove all stashes
+
+git stash branch <name new branch>: move all change of stash old branch to new branch
 ``` 
 
