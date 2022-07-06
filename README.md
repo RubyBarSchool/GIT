@@ -107,3 +107,17 @@ git merge <branch A> --no-ff: disable fast forward merge
 ``` 
 
 
+## Command git rebasing
+```git 
+git rebase <branch A>: Here to branch A
+
+git rebase --about: check out the original branch and stop rebasing 
+
+git rebase --continue: resolved this problem go next step
+
+git rebase --skip: prefer to skip this patch
+
+
+``` 
+
+
