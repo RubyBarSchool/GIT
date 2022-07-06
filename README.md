@@ -93,3 +93,15 @@ git branch -d <name branch>: delete branch
 
 git branch -b <name new branch>: create new branch and checkout to new branch
 ``` 
+
+
+## Command git merge
+```git
+git merge <branch A>: merge code in branch A to branch here
+
+if branch here dont have commit => fast forward
+
+git merge <branch A> --no-f: disable fast forward merge
+``` 
+
+
