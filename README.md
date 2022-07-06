@@ -146,5 +146,7 @@ git stash pop : the same 'git stash apply' + 'git stash drop'
 git stash save "<message>": config name to stash this is happy if have multiple stashes
 
 git stash show stash@{<index>}: show file change in stash
+
+git stash clear: remove all stashes
 ``` 
 
