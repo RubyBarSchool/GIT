@@ -73,6 +73,8 @@ git diff <id commit 1> <id commit 2>: show changes between 2 commits
 git diff HEAD ^HEAD: show changes between git repository at HEAD and git repository at 1 commit before HEAD
 
 git diff <branch main local> origin/<branch main remote>: show changes between git local and git remote
+
+git diff <branch local A> <branch local B>: show changes between branch A and branch B
 ```
 
 ## Command git branch
