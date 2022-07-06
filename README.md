@@ -74,3 +74,8 @@ git diff HEAD ^HEAD: show changes between git repository at HEAD and git reposit
 
 git diff <branch main local> origin/<branch main remote>: show changes between git local and git remote
 ```
+
+## Command git branch
+```git
+git branch -a: show all branch local and remote
+```
