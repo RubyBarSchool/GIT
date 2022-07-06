@@ -84,4 +84,7 @@ git branch <name branch>: add new branch to local
 git checkout <name branch>: change new branch
 
 git branch -m <name old branch> <name new branch> : change name branch
+
+git branch -d <name branch>: delete branch
+
 ``` 
