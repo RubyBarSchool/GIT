@@ -131,10 +131,20 @@ git stash : move all changes in file (old) to other memory
 
 git stash -u : move all changes in file (old and new) to other memory
 
-git stash apply: merge all changes from other memory in here
+git stash apply: merge new stash from other memory in here
+
+git stash apply stash@{<index>}: merge stash(index) from other memory in here
 
 git stash list: get list stash in other memory
 
 git stash drop: drop new stash
+
+git stash drop stash@{<index>}: drop stash(index) 
+
+git stash pop : the same 'git stash apply' + 'git stash drop'
+
+git stash save "<message>": config name to stash this is happy if have multiple stashes
+
+git stash show stash@{<index>}: show file change in stash
 ``` 
 
