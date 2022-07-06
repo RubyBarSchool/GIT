@@ -34,6 +34,8 @@ git add <file/files/.>: add or change file in Local Area to Stagging Area
 
 git commit -m "<note>": add  or changr file in Stagging Area to Local Repository Area (.git)
 
+git commit -am "<note>": add and commit
+
 git push : up files in Local Repository(.git) to remote repository area ( GitHub ) 
 
 git mv <source> <destination> :  Move or rename a file, a directory, or a symlink
