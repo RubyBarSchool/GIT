@@ -73,6 +73,8 @@ git diff <id commit 1> <id commit 2>: show changes between 2 commits
 git diff HEAD ^HEAD: show changes between git repository at HEAD and git repository at 1 commit before HEAD
 
 git diff <branch main local> origin/<branch main remote>: show changes between git local and git remote
+
+git diff <branch local A> <branch local B>: show changes between branch A and branch B
 ```
 
 ## Command git branch
@@ -91,3 +93,15 @@ git branch -d <name branch>: delete branch
 
 git branch -b <name new branch>: create new branch and checkout to new branch
 ``` 
+
+
+## Command git merge
+```git
+git merge <branch A>: merge code in branch A to branch here
+
+if branch here dont have commit => fast forward
+
+git merge <branch A> --no-f: disable fast forward merge
+``` 
+
+
