@@ -46,6 +46,11 @@ git restore <file> : to discard changes in working directory
 
 git restore --staged <file>: to unstage
 
+git reset HEAD^ : Bach to before commit 
+
+git reflog : show all log git
+
+git reset (id commit/HEAD@{index}) : Go to commit or commit have HEAD@{index}
 ```
 
 ## Command git log
