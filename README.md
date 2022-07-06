@@ -183,3 +183,8 @@ git push <tag name>: upload tag to remote
 git push :<tag name> : delete tag in remote
 ``` 
 
+## Command git cherry pick
+```git 
+
+``` 
+
