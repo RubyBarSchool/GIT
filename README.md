@@ -115,6 +115,13 @@ git merge <branch A>: merge code in branch A to branch here
 if branch here dont have commit => fast forward
 
 git merge <branch A> --no-ff: disable fast forward merge
+
+## after conflic
+git merge --continue: to continue after resolving conflicts in a failed merge
+
+git merge --abort: Abort the current conflict resolution process, and try to reconstruct the pre-merge state. If an autostash entry is present, apply it to the worktree.
+
+git merge --quit: Forget about the current merge in progress. Leave the index and the working tree as-is. If MERGE_AUTOSTASH is present, the stash entry will be saved to the stash list.
 ``` 
 
 
