@@ -185,6 +185,18 @@ git push :<tag name> : delete tag in remote
 
 ## Command git cherry pick
 ```git 
+git cherry-pick <id commit>: add commit with id to branch here ( creat new commit before add to branch here)
 
+
+## after conflic
+git cherry-pick --continue : to continue after resolving conflicts in a failed cherry-pick or revert.
+
+git cherry-pick --skip: Skip the current commit and continue with the rest of the sequence.
+
+git cherry-pick --abort: Cancel the operation and return to the pre-sequence state.
+
+git cherry-pick --quit: Forget about the current operation in progress. Can be used to clear the sequencer state after a failed cherry-pick or revert.
 ``` 
+
+### if conflic. After resolve you should add file in working tree before command continue
 
